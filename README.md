@@ -1,9 +1,9 @@
  ## Hi I'm Diwakar 👋
 
-- **Full-Stack Developer** | Crafting scalable and high-performance applications with **MERN & Next.js**.<br/>
-- **End-to-End Solutions** | From idea to deployment, I build **real-world, production-ready projects**. <br/>
-- **API & AI Integrations** | Leveraging **REST,  high-performance systems, and AI-driven features** for innovative solutions.<br/>
-- **Let's Connect** | Explore my work on my [Portfolio](https://portfolio-d.onrender.com) & reach out for collaboration! 🚀 <br/>
+🚀 **Full-Stack Developer**  Crafting scalable and high-performance applications with **MERN & Next.js**.<br/>
+🏗️**End-to-End Solutions**  From idea to deployment, I build **real-world, production-ready projects**. <br/>
+🔗**API & AI Integrations**  Leveraging **REST,  high-performance systems, and AI-driven features** for innovative solutions.<br/>
+📬 **Let's Connect**  Explore my work on my [Portfolio](https://portfolio-d.onrender.com) & reach out for collaboration! <br/>
 
 
 
